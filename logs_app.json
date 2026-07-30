@@ -1,0 +1,5632 @@
+[
+    {
+        "id_cliente": 3632,
+        "sessao": "sess_923765",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-01-29T11:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": 193
+            },
+            {
+                "timestamp": "2023-05-05T05:00:00",
+                "tela": "home",
+                "acao": "add_to_cart",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-03-25T15:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": 177
+            },
+            {
+                "timestamp": "2023-06-01T23:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 197
+            }
+        ]
+    },
+    {
+        "id_cliente": 2798,
+        "sessao": "sess_903374",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-02-04T17:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 407
+            }
+        ]
+    },
+    {
+        "id_cliente": 8759,
+        "sessao": "sess_978810",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-07-31T12:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-08-12T21:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": 328
+            },
+            {
+                "timestamp": "2023-01-08T05:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 7178,
+        "sessao": "sess_363551",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-05-25T18:00:00",
+                "tela": "perfil",
+                "acao": "click",
+                "produto_id": 303
+            },
+            {
+                "timestamp": "2023-12-29T08:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 465
+            }
+        ]
+    },
+    {
+        "id_cliente": 5584,
+        "sessao": "sess_628564",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-08-16T23:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": 169
+            }
+        ]
+    },
+    {
+        "id_cliente": 3162,
+        "sessao": "sess_358099",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-12-31T14:00:00",
+                "tela": "home",
+                "acao": "add_to_cart",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-02-03T16:00:00",
+                "tela": "perfil",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-05-27T23:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 274
+            },
+            {
+                "timestamp": "2023-02-21T20:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-01-30T12:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 9523,
+        "sessao": "sess_334569",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-09-17T10:00:00",
+                "tela": "produto",
+                "acao": "add_to_cart",
+                "produto_id": 253
+            },
+            {
+                "timestamp": "2023-04-08T19:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": 254
+            },
+            {
+                "timestamp": "2023-02-16T16:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": 131
+            }
+        ]
+    },
+    {
+        "id_cliente": 1701,
+        "sessao": "sess_294125",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-12-09T03:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": 360
+            },
+            {
+                "timestamp": "2023-02-20T13:00:00",
+                "tela": "produto",
+                "acao": "add_to_cart",
+                "produto_id": 212
+            }
+        ]
+    },
+    {
+        "id_cliente": 1716,
+        "sessao": "sess_934648",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-11-29T08:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 106
+            },
+            {
+                "timestamp": "2023-01-24T08:00:00",
+                "tela": "produto",
+                "acao": "view",
+                "produto_id": 499
+            },
+            {
+                "timestamp": "2023-01-31T19:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 2220,
+        "sessao": "sess_909880",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-02-05T02:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 242
+            }
+        ]
+    },
+    {
+        "id_cliente": 2981,
+        "sessao": "sess_644505",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-02-19T23:00:00",
+                "tela": "perfil",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-03-18T14:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": 454
+            },
+            {
+                "timestamp": "2023-06-17T23:00:00",
+                "tela": "carrinho",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-10-24T15:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": 392
+            },
+            {
+                "timestamp": "2023-05-26T23:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": 169
+            }
+        ]
+    },
+    {
+        "id_cliente": 2677,
+        "sessao": "sess_889337",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-08-21T07:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": 354
+            },
+            {
+                "timestamp": "2023-10-02T11:00:00",
+                "tela": "carrinho",
+                "acao": "view",
+                "produto_id": 446
+            },
+            {
+                "timestamp": "2023-02-04T11:00:00",
+                "tela": "carrinho",
+                "acao": "add_to_cart",
+                "produto_id": 118
+            }
+        ]
+    },
+    {
+        "id_cliente": 8041,
+        "sessao": "sess_119762",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-08-01T10:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": 167
+            }
+        ]
+    },
+    {
+        "id_cliente": 7294,
+        "sessao": "sess_491228",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-06-19T08:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": 295
+            }
+        ]
+    },
+    {
+        "id_cliente": 2927,
+        "sessao": "sess_619438",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-05-08T01:00:00",
+                "tela": "carrinho",
+                "acao": "add_to_cart",
+                "produto_id": 242
+            },
+            {
+                "timestamp": "2023-04-05T05:00:00",
+                "tela": "home",
+                "acao": "add_to_cart",
+                "produto_id": 243
+            },
+            {
+                "timestamp": "2023-04-09T07:00:00",
+                "tela": "produto",
+                "acao": "scroll",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-08-01T02:00:00",
+                "tela": "produto",
+                "acao": "scroll",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 6912,
+        "sessao": "sess_351970",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-03-02T02:00:00",
+                "tela": "carrinho",
+                "acao": "add_to_cart",
+                "produto_id": 319
+            }
+        ]
+    },
+    {
+        "id_cliente": 3679,
+        "sessao": "sess_477800",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-07-03T01:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 484
+            },
+            {
+                "timestamp": "2023-07-01T05:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 456
+            }
+        ]
+    },
+    {
+        "id_cliente": 4080,
+        "sessao": "sess_601516",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-11-11T21:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-12-17T20:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-09-12T05:00:00",
+                "tela": "produto",
+                "acao": "add_to_cart",
+                "produto_id": 381
+            }
+        ]
+    },
+    {
+        "id_cliente": 9226,
+        "sessao": "sess_760707",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-01-01T13:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": 158
+            },
+            {
+                "timestamp": "2023-12-29T01:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": 412
+            }
+        ]
+    },
+    {
+        "id_cliente": 9825,
+        "sessao": "sess_679224",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-03-26T19:00:00",
+                "tela": "perfil",
+                "acao": "click",
+                "produto_id": 271
+            },
+            {
+                "timestamp": "2023-12-23T09:00:00",
+                "tela": "home",
+                "acao": "click",
+                "produto_id": 172
+            }
+        ]
+    },
+    {
+        "id_cliente": 5480,
+        "sessao": "sess_756662",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-06-26T16:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": 463
+            },
+            {
+                "timestamp": "2023-01-20T01:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 253
+            },
+            {
+                "timestamp": "2023-07-05T16:00:00",
+                "tela": "perfil",
+                "acao": "click",
+                "produto_id": 384
+            }
+        ]
+    },
+    {
+        "id_cliente": 1237,
+        "sessao": "sess_968968",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-05-23T10:00:00",
+                "tela": "carrinho",
+                "acao": "view",
+                "produto_id": 494
+            }
+        ]
+    },
+    {
+        "id_cliente": 8548,
+        "sessao": "sess_464844",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-09-22T19:00:00",
+                "tela": "perfil",
+                "acao": "click",
+                "produto_id": 178
+            },
+            {
+                "timestamp": "2023-06-29T19:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": 338
+            },
+            {
+                "timestamp": "2023-12-03T23:00:00",
+                "tela": "home",
+                "acao": "add_to_cart",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 3889,
+        "sessao": "sess_351828",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-11-12T04:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 405
+            },
+            {
+                "timestamp": "2023-09-17T17:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 9955,
+        "sessao": "sess_475037",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-11-29T17:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": 313
+            },
+            {
+                "timestamp": "2023-09-09T02:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 7526,
+        "sessao": "sess_321895",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-07-20T04:00:00",
+                "tela": "produto",
+                "acao": "add_to_cart",
+                "produto_id": 458
+            },
+            {
+                "timestamp": "2023-11-25T20:00:00",
+                "tela": "home",
+                "acao": "click",
+                "produto_id": 111
+            },
+            {
+                "timestamp": "2023-02-24T20:00:00",
+                "tela": "home",
+                "acao": "add_to_cart",
+                "produto_id": 475
+            },
+            {
+                "timestamp": "2023-11-23T15:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-12-10T22:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": 215
+            }
+        ]
+    },
+    {
+        "id_cliente": 9861,
+        "sessao": "sess_709961",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-10-01T14:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": 376
+            }
+        ]
+    },
+    {
+        "id_cliente": 7959,
+        "sessao": "sess_343586",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-05-02T17:00:00",
+                "tela": "produto",
+                "acao": "view",
+                "produto_id": 500
+            },
+            {
+                "timestamp": "2023-12-18T10:00:00",
+                "tela": "carrinho",
+                "acao": "add_to_cart",
+                "produto_id": 180
+            },
+            {
+                "timestamp": "2023-11-29T19:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-09-03T13:00:00",
+                "tela": "perfil",
+                "acao": "click",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 7527,
+        "sessao": "sess_692945",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-06-22T17:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-05-11T01:00:00",
+                "tela": "produto",
+                "acao": "add_to_cart",
+                "produto_id": 126
+            },
+            {
+                "timestamp": "2023-05-23T12:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": 319
+            },
+            {
+                "timestamp": "2023-06-14T07:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": 359
+            },
+            {
+                "timestamp": "2023-02-04T08:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": 181
+            }
+        ]
+    },
+    {
+        "id_cliente": 3088,
+        "sessao": "sess_381334",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-11-01T20:00:00",
+                "tela": "produto",
+                "acao": "scroll",
+                "produto_id": 295
+            }
+        ]
+    },
+    {
+        "id_cliente": 4373,
+        "sessao": "sess_882648",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-03-01T05:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 286
+            },
+            {
+                "timestamp": "2023-12-18T09:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": 387
+            }
+        ]
+    },
+    {
+        "id_cliente": 9882,
+        "sessao": "sess_933804",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-07-10T15:00:00",
+                "tela": "produto",
+                "acao": "view",
+                "produto_id": 214
+            }
+        ]
+    },
+    {
+        "id_cliente": 8789,
+        "sessao": "sess_671435",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-09-02T02:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": 419
+            },
+            {
+                "timestamp": "2023-09-24T12:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-05-06T21:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": 356
+            }
+        ]
+    },
+    {
+        "id_cliente": 9385,
+        "sessao": "sess_545778",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-12-16T18:00:00",
+                "tela": "carrinho",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-07-03T09:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-04-20T23:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": 430
+            },
+            {
+                "timestamp": "2023-10-28T04:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": 320
+            },
+            {
+                "timestamp": "2023-09-03T08:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 8568,
+        "sessao": "sess_737460",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-02-28T00:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": 296
+            }
+        ]
+    },
+    {
+        "id_cliente": 5614,
+        "sessao": "sess_758749",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-05-27T03:00:00",
+                "tela": "produto",
+                "acao": "add_to_cart",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-03-24T18:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 113
+            },
+            {
+                "timestamp": "2023-11-02T01:00:00",
+                "tela": "produto",
+                "acao": "scroll",
+                "produto_id": 290
+            },
+            {
+                "timestamp": "2023-09-11T06:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": 467
+            },
+            {
+                "timestamp": "2023-10-20T00:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 273
+            }
+        ]
+    },
+    {
+        "id_cliente": 9597,
+        "sessao": "sess_573501",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-03-23T01:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": 203
+            }
+        ]
+    },
+    {
+        "id_cliente": 7984,
+        "sessao": "sess_282056",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-10-05T15:00:00",
+                "tela": "perfil",
+                "acao": "click",
+                "produto_id": 284
+            }
+        ]
+    },
+    {
+        "id_cliente": 2574,
+        "sessao": "sess_700140",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-06-09T13:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": 374
+            },
+            {
+                "timestamp": "2023-10-14T07:00:00",
+                "tela": "home",
+                "acao": "click",
+                "produto_id": 279
+            }
+        ]
+    },
+    {
+        "id_cliente": 2872,
+        "sessao": "sess_358131",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-02-26T11:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 401
+            },
+            {
+                "timestamp": "2023-03-20T12:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 295
+            }
+        ]
+    },
+    {
+        "id_cliente": 8293,
+        "sessao": "sess_269509",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-05-31T03:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": 130
+            },
+            {
+                "timestamp": "2023-03-29T11:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 345
+            }
+        ]
+    },
+    {
+        "id_cliente": 6565,
+        "sessao": "sess_172192",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-12-22T06:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": 110
+            },
+            {
+                "timestamp": "2023-09-05T10:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": 159
+            }
+        ]
+    },
+    {
+        "id_cliente": 8686,
+        "sessao": "sess_724754",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-08-15T19:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": 407
+            },
+            {
+                "timestamp": "2023-08-06T21:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 423
+            },
+            {
+                "timestamp": "2023-03-15T06:00:00",
+                "tela": "produto",
+                "acao": "scroll",
+                "produto_id": 258
+            },
+            {
+                "timestamp": "2023-05-13T02:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 7750,
+        "sessao": "sess_900974",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2024-01-01T12:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 369
+            }
+        ]
+    },
+    {
+        "id_cliente": 9228,
+        "sessao": "sess_523709",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-03-22T16:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-06-14T13:00:00",
+                "tela": "carrinho",
+                "acao": "add_to_cart",
+                "produto_id": 141
+            },
+            {
+                "timestamp": "2023-03-20T21:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-08-23T21:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": 455
+            }
+        ]
+    },
+    {
+        "id_cliente": 5237,
+        "sessao": "sess_106294",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-11-24T04:00:00",
+                "tela": "home",
+                "acao": "add_to_cart",
+                "produto_id": 136
+            },
+            {
+                "timestamp": "2023-03-16T00:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": 117
+            },
+            {
+                "timestamp": "2023-12-27T18:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": 397
+            },
+            {
+                "timestamp": "2023-04-14T18:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-06-23T21:00:00",
+                "tela": "perfil",
+                "acao": "click",
+                "produto_id": 319
+            }
+        ]
+    },
+    {
+        "id_cliente": 5842,
+        "sessao": "sess_427876",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-10-05T22:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 216
+            },
+            {
+                "timestamp": "2023-06-26T10:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 443
+            },
+            {
+                "timestamp": "2023-05-18T02:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": 415
+            },
+            {
+                "timestamp": "2023-06-03T22:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-03-08T18:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 451
+            }
+        ]
+    },
+    {
+        "id_cliente": 3834,
+        "sessao": "sess_418351",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-10-10T11:00:00",
+                "tela": "home",
+                "acao": "click",
+                "produto_id": 428
+            }
+        ]
+    },
+    {
+        "id_cliente": 4803,
+        "sessao": "sess_257486",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-03-19T21:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": 139
+            },
+            {
+                "timestamp": "2023-03-10T08:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": 262
+            },
+            {
+                "timestamp": "2023-09-18T11:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": 248
+            },
+            {
+                "timestamp": "2023-10-01T20:00:00",
+                "tela": "produto",
+                "acao": "add_to_cart",
+                "produto_id": 293
+            },
+            {
+                "timestamp": "2023-02-27T22:00:00",
+                "tela": "carrinho",
+                "acao": "add_to_cart",
+                "produto_id": 155
+            }
+        ]
+    },
+    {
+        "id_cliente": 4821,
+        "sessao": "sess_837948",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-01-10T08:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": 269
+            },
+            {
+                "timestamp": "2023-05-26T17:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-09-28T00:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": 137
+            },
+            {
+                "timestamp": "2023-03-13T04:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": 481
+            },
+            {
+                "timestamp": "2023-02-25T07:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 5640,
+        "sessao": "sess_919344",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-07-05T00:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": 442
+            },
+            {
+                "timestamp": "2023-01-28T15:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": 409
+            },
+            {
+                "timestamp": "2023-08-17T20:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 9846,
+        "sessao": "sess_488480",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-12-11T07:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": 223
+            }
+        ]
+    },
+    {
+        "id_cliente": 8176,
+        "sessao": "sess_452678",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-01-21T13:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-06-28T02:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": 220
+            },
+            {
+                "timestamp": "2023-06-30T22:00:00",
+                "tela": "produto",
+                "acao": "add_to_cart",
+                "produto_id": 366
+            },
+            {
+                "timestamp": "2023-03-21T03:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-02-08T03:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 9800,
+        "sessao": "sess_717725",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-08-01T21:00:00",
+                "tela": "produto",
+                "acao": "add_to_cart",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-11-07T04:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": 379
+            },
+            {
+                "timestamp": "2023-04-04T10:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 440
+            }
+        ]
+    },
+    {
+        "id_cliente": 1368,
+        "sessao": "sess_163618",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-05-07T21:00:00",
+                "tela": "produto",
+                "acao": "add_to_cart",
+                "produto_id": 493
+            },
+            {
+                "timestamp": "2023-09-23T09:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": 341
+            },
+            {
+                "timestamp": "2023-07-13T22:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": 182
+            },
+            {
+                "timestamp": "2023-11-25T12:00:00",
+                "tela": "produto",
+                "acao": "view",
+                "produto_id": 431
+            }
+        ]
+    },
+    {
+        "id_cliente": 7727,
+        "sessao": "sess_290697",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-08-16T01:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-12-08T15:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-12-04T18:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": 173
+            },
+            {
+                "timestamp": "2023-07-03T16:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 327
+            }
+        ]
+    },
+    {
+        "id_cliente": 3128,
+        "sessao": "sess_428535",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-02-05T22:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": 154
+            },
+            {
+                "timestamp": "2023-02-06T06:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-02-23T02:00:00",
+                "tela": "produto",
+                "acao": "scroll",
+                "produto_id": 344
+            },
+            {
+                "timestamp": "2023-09-11T16:00:00",
+                "tela": "perfil",
+                "acao": "click",
+                "produto_id": 115
+            },
+            {
+                "timestamp": "2023-06-09T08:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 478
+            }
+        ]
+    },
+    {
+        "id_cliente": 5058,
+        "sessao": "sess_739459",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-07-26T14:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": 261
+            },
+            {
+                "timestamp": "2023-02-21T22:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": 402
+            },
+            {
+                "timestamp": "2023-05-03T13:00:00",
+                "tela": "produto",
+                "acao": "scroll",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 2418,
+        "sessao": "sess_126582",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-10-12T06:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-12-29T15:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": 156
+            },
+            {
+                "timestamp": "2023-02-25T15:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": 130
+            }
+        ]
+    },
+    {
+        "id_cliente": 7983,
+        "sessao": "sess_514378",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-04-14T14:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 105
+            },
+            {
+                "timestamp": "2023-04-13T07:00:00",
+                "tela": "home",
+                "acao": "click",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 8439,
+        "sessao": "sess_439639",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-01-13T03:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 286
+            },
+            {
+                "timestamp": "2023-09-13T01:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-09-14T21:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": 208
+            },
+            {
+                "timestamp": "2023-08-30T02:00:00",
+                "tela": "home",
+                "acao": "click",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 3642,
+        "sessao": "sess_323569",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-03-05T20:00:00",
+                "tela": "produto",
+                "acao": "add_to_cart",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-07-14T18:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 299
+            }
+        ]
+    },
+    {
+        "id_cliente": 3915,
+        "sessao": "sess_535588",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-02-18T12:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": 251
+            },
+            {
+                "timestamp": "2023-03-01T19:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": 330
+            },
+            {
+                "timestamp": "2023-06-21T13:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 105
+            },
+            {
+                "timestamp": "2023-10-06T00:00:00",
+                "tela": "carrinho",
+                "acao": "view",
+                "produto_id": 455
+            },
+            {
+                "timestamp": "2023-11-09T11:00:00",
+                "tela": "produto",
+                "acao": "add_to_cart",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 9248,
+        "sessao": "sess_662465",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-10-20T09:00:00",
+                "tela": "home",
+                "acao": "click",
+                "produto_id": 436
+            },
+            {
+                "timestamp": "2023-04-17T13:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 154
+            }
+        ]
+    },
+    {
+        "id_cliente": 7774,
+        "sessao": "sess_912293",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-05-25T22:00:00",
+                "tela": "produto",
+                "acao": "add_to_cart",
+                "produto_id": 267
+            },
+            {
+                "timestamp": "2023-08-12T03:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": 500
+            },
+            {
+                "timestamp": "2023-03-15T18:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-03-25T17:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": 225
+            },
+            {
+                "timestamp": "2023-09-01T10:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 6303,
+        "sessao": "sess_409565",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-11-17T08:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": 118
+            },
+            {
+                "timestamp": "2023-02-01T02:00:00",
+                "tela": "produto",
+                "acao": "add_to_cart",
+                "produto_id": 323
+            }
+        ]
+    },
+    {
+        "id_cliente": 1363,
+        "sessao": "sess_460957",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-09-20T11:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-01-16T15:00:00",
+                "tela": "home",
+                "acao": "add_to_cart",
+                "produto_id": 375
+            },
+            {
+                "timestamp": "2023-07-19T03:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": 353
+            },
+            {
+                "timestamp": "2023-03-12T21:00:00",
+                "tela": "produto",
+                "acao": "view",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 6219,
+        "sessao": "sess_964459",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-02-25T08:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 3653,
+        "sessao": "sess_325794",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-01-22T18:00:00",
+                "tela": "carrinho",
+                "acao": "add_to_cart",
+                "produto_id": 312
+            },
+            {
+                "timestamp": "2023-07-21T15:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-06-10T23:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-07-02T04:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": 229
+            },
+            {
+                "timestamp": "2023-03-11T21:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": 286
+            }
+        ]
+    },
+    {
+        "id_cliente": 3191,
+        "sessao": "sess_327712",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-06-23T14:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 125
+            },
+            {
+                "timestamp": "2023-06-18T12:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-06-08T21:00:00",
+                "tela": "produto",
+                "acao": "scroll",
+                "produto_id": 127
+            }
+        ]
+    },
+    {
+        "id_cliente": 4570,
+        "sessao": "sess_983813",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-10-01T04:00:00",
+                "tela": "produto",
+                "acao": "scroll",
+                "produto_id": 478
+            }
+        ]
+    },
+    {
+        "id_cliente": 4771,
+        "sessao": "sess_155550",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-07-07T00:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": 140
+            },
+            {
+                "timestamp": "2023-12-05T15:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": 426
+            },
+            {
+                "timestamp": "2023-08-10T07:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-11-07T21:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": 405
+            }
+        ]
+    },
+    {
+        "id_cliente": 7533,
+        "sessao": "sess_852338",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-03-31T18:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": 462
+            },
+            {
+                "timestamp": "2023-08-03T11:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-02-07T23:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": 158
+            },
+            {
+                "timestamp": "2023-10-07T19:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": 183
+            }
+        ]
+    },
+    {
+        "id_cliente": 8776,
+        "sessao": "sess_262127",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-01-13T11:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 312
+            },
+            {
+                "timestamp": "2023-04-12T02:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 199
+            }
+        ]
+    },
+    {
+        "id_cliente": 9705,
+        "sessao": "sess_201042",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-04-23T15:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-07-04T03:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": 310
+            },
+            {
+                "timestamp": "2023-08-24T09:00:00",
+                "tela": "perfil",
+                "acao": "click",
+                "produto_id": 214
+            },
+            {
+                "timestamp": "2023-11-16T15:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 423
+            },
+            {
+                "timestamp": "2023-07-17T22:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 1271,
+        "sessao": "sess_260913",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-07-20T19:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": 337
+            },
+            {
+                "timestamp": "2023-09-17T19:00:00",
+                "tela": "produto",
+                "acao": "scroll",
+                "produto_id": 113
+            },
+            {
+                "timestamp": "2023-12-10T19:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": 310
+            },
+            {
+                "timestamp": "2023-02-21T11:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": 274
+            },
+            {
+                "timestamp": "2023-03-28T09:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": 369
+            }
+        ]
+    },
+    {
+        "id_cliente": 5064,
+        "sessao": "sess_297422",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-08-04T00:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": 286
+            },
+            {
+                "timestamp": "2023-05-26T10:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": 203
+            }
+        ]
+    },
+    {
+        "id_cliente": 3084,
+        "sessao": "sess_150505",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-06-18T09:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 116
+            }
+        ]
+    },
+    {
+        "id_cliente": 9032,
+        "sessao": "sess_504626",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-01-19T14:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": 198
+            },
+            {
+                "timestamp": "2023-08-08T00:00:00",
+                "tela": "produto",
+                "acao": "view",
+                "produto_id": 375
+            }
+        ]
+    },
+    {
+        "id_cliente": 4154,
+        "sessao": "sess_173591",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-02-21T14:00:00",
+                "tela": "produto",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-01-01T01:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 273
+            }
+        ]
+    },
+    {
+        "id_cliente": 5791,
+        "sessao": "sess_681596",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-07-01T07:00:00",
+                "tela": "perfil",
+                "acao": "click",
+                "produto_id": 210
+            },
+            {
+                "timestamp": "2023-11-01T03:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": 284
+            },
+            {
+                "timestamp": "2023-07-20T16:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": 184
+            },
+            {
+                "timestamp": "2023-02-18T17:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": 241
+            }
+        ]
+    },
+    {
+        "id_cliente": 7789,
+        "sessao": "sess_274410",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-08-01T04:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": 486
+            },
+            {
+                "timestamp": "2023-12-08T07:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": 372
+            }
+        ]
+    },
+    {
+        "id_cliente": 7793,
+        "sessao": "sess_752880",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-10-15T18:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 2537,
+        "sessao": "sess_984279",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-05-21T02:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": 487
+            }
+        ]
+    },
+    {
+        "id_cliente": 6698,
+        "sessao": "sess_812589",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-04-07T20:00:00",
+                "tela": "home",
+                "acao": "add_to_cart",
+                "produto_id": 394
+            },
+            {
+                "timestamp": "2023-09-20T14:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": 175
+            },
+            {
+                "timestamp": "2023-07-09T21:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 255
+            },
+            {
+                "timestamp": "2023-03-19T15:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 345
+            },
+            {
+                "timestamp": "2023-05-12T05:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": 183
+            }
+        ]
+    },
+    {
+        "id_cliente": 3317,
+        "sessao": "sess_121492",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-12-31T12:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": 241
+            },
+            {
+                "timestamp": "2023-07-23T18:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": 169
+            }
+        ]
+    },
+    {
+        "id_cliente": 5823,
+        "sessao": "sess_536443",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-02-24T11:00:00",
+                "tela": "perfil",
+                "acao": "click",
+                "produto_id": 494
+            },
+            {
+                "timestamp": "2023-08-31T13:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 430
+            },
+            {
+                "timestamp": "2023-08-18T04:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 194
+            },
+            {
+                "timestamp": "2023-11-30T10:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-07-20T14:00:00",
+                "tela": "home",
+                "acao": "click",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 8317,
+        "sessao": "sess_588917",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-10-28T02:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-04-30T12:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": 387
+            }
+        ]
+    },
+    {
+        "id_cliente": 2644,
+        "sessao": "sess_642309",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-10-02T14:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 276
+            },
+            {
+                "timestamp": "2023-12-24T00:00:00",
+                "tela": "produto",
+                "acao": "view",
+                "produto_id": 460
+            },
+            {
+                "timestamp": "2023-09-22T06:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-02-13T16:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": 174
+            },
+            {
+                "timestamp": "2023-10-19T01:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 386
+            }
+        ]
+    },
+    {
+        "id_cliente": 9000,
+        "sessao": "sess_976262",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-08-18T03:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": 439
+            },
+            {
+                "timestamp": "2023-02-25T10:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": 468
+            },
+            {
+                "timestamp": "2023-06-02T03:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": 332
+            },
+            {
+                "timestamp": "2023-08-06T01:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 181
+            },
+            {
+                "timestamp": "2023-03-22T18:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": 345
+            }
+        ]
+    },
+    {
+        "id_cliente": 7451,
+        "sessao": "sess_810932",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-04-10T17:00:00",
+                "tela": "produto",
+                "acao": "view",
+                "produto_id": 316
+            }
+        ]
+    },
+    {
+        "id_cliente": 5679,
+        "sessao": "sess_577218",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-08-19T17:00:00",
+                "tela": "produto",
+                "acao": "view",
+                "produto_id": 229
+            }
+        ]
+    },
+    {
+        "id_cliente": 9649,
+        "sessao": "sess_120703",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-05-24T18:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": 196
+            },
+            {
+                "timestamp": "2023-04-15T20:00:00",
+                "tela": "carrinho",
+                "acao": "add_to_cart",
+                "produto_id": 450
+            },
+            {
+                "timestamp": "2023-04-10T16:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 7157,
+        "sessao": "sess_404331",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-06-10T05:00:00",
+                "tela": "produto",
+                "acao": "scroll",
+                "produto_id": 484
+            },
+            {
+                "timestamp": "2023-04-02T18:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 237
+            },
+            {
+                "timestamp": "2023-09-19T02:00:00",
+                "tela": "carrinho",
+                "acao": "view",
+                "produto_id": 131
+            },
+            {
+                "timestamp": "2023-10-30T03:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 227
+            },
+            {
+                "timestamp": "2023-12-13T06:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": 317
+            }
+        ]
+    },
+    {
+        "id_cliente": 7139,
+        "sessao": "sess_830743",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-05-10T15:00:00",
+                "tela": "carrinho",
+                "acao": "add_to_cart",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-10-06T17:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 366
+            },
+            {
+                "timestamp": "2023-01-31T10:00:00",
+                "tela": "produto",
+                "acao": "scroll",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-07-31T22:00:00",
+                "tela": "carrinho",
+                "acao": "add_to_cart",
+                "produto_id": 148
+            },
+            {
+                "timestamp": "2023-12-09T20:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 7921,
+        "sessao": "sess_670421",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-10-13T01:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": 196
+            },
+            {
+                "timestamp": "2023-05-06T06:00:00",
+                "tela": "produto",
+                "acao": "add_to_cart",
+                "produto_id": 326
+            },
+            {
+                "timestamp": "2023-09-28T09:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 151
+            },
+            {
+                "timestamp": "2023-01-29T07:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 165
+            }
+        ]
+    },
+    {
+        "id_cliente": 8581,
+        "sessao": "sess_845734",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-08-30T21:00:00",
+                "tela": "produto",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-01-27T04:00:00",
+                "tela": "carrinho",
+                "acao": "view",
+                "produto_id": 487
+            },
+            {
+                "timestamp": "2023-04-29T10:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": 475
+            },
+            {
+                "timestamp": "2023-09-09T05:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": 164
+            },
+            {
+                "timestamp": "2023-11-29T03:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 257
+            }
+        ]
+    },
+    {
+        "id_cliente": 6170,
+        "sessao": "sess_949479",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-06-07T03:00:00",
+                "tela": "home",
+                "acao": "add_to_cart",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-10-18T01:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-05-19T20:00:00",
+                "tela": "produto",
+                "acao": "scroll",
+                "produto_id": 354
+            }
+        ]
+    },
+    {
+        "id_cliente": 5347,
+        "sessao": "sess_986159",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-11-05T23:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": 235
+            }
+        ]
+    },
+    {
+        "id_cliente": 5442,
+        "sessao": "sess_457366",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-09-18T05:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": 403
+            },
+            {
+                "timestamp": "2023-06-01T11:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": 492
+            }
+        ]
+    },
+    {
+        "id_cliente": 7913,
+        "sessao": "sess_819719",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-03-19T04:00:00",
+                "tela": "produto",
+                "acao": "view",
+                "produto_id": 401
+            },
+            {
+                "timestamp": "2023-04-13T07:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 299
+            },
+            {
+                "timestamp": "2023-05-23T06:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-12-24T08:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": 336
+            },
+            {
+                "timestamp": "2023-01-19T09:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 310
+            }
+        ]
+    },
+    {
+        "id_cliente": 6369,
+        "sessao": "sess_847299",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-03-01T05:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-03-18T18:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 7938,
+        "sessao": "sess_166220",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-07-30T03:00:00",
+                "tela": "carrinho",
+                "acao": "add_to_cart",
+                "produto_id": 148
+            },
+            {
+                "timestamp": "2023-04-06T16:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": 483
+            },
+            {
+                "timestamp": "2023-03-31T20:00:00",
+                "tela": "home",
+                "acao": "click",
+                "produto_id": 335
+            },
+            {
+                "timestamp": "2023-01-22T08:00:00",
+                "tela": "home",
+                "acao": "add_to_cart",
+                "produto_id": 477
+            },
+            {
+                "timestamp": "2023-12-09T04:00:00",
+                "tela": "home",
+                "acao": "add_to_cart",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 6848,
+        "sessao": "sess_311686",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-08-13T09:00:00",
+                "tela": "home",
+                "acao": "click",
+                "produto_id": 245
+            }
+        ]
+    },
+    {
+        "id_cliente": 6513,
+        "sessao": "sess_170595",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-05-09T21:00:00",
+                "tela": "home",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-07-10T01:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 3332,
+        "sessao": "sess_290407",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-04-08T01:00:00",
+                "tela": "home",
+                "acao": "click",
+                "produto_id": 258
+            },
+            {
+                "timestamp": "2023-07-06T10:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-06-02T08:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": 474
+            },
+            {
+                "timestamp": "2023-01-04T03:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 452
+            }
+        ]
+    },
+    {
+        "id_cliente": 9385,
+        "sessao": "sess_746412",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-03-24T05:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 309
+            }
+        ]
+    },
+    {
+        "id_cliente": 4791,
+        "sessao": "sess_433871",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-05-02T10:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": 343
+            },
+            {
+                "timestamp": "2023-11-06T16:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-12-29T04:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 279
+            }
+        ]
+    },
+    {
+        "id_cliente": 6368,
+        "sessao": "sess_408705",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-02-08T07:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": 258
+            },
+            {
+                "timestamp": "2023-10-28T02:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 385
+            },
+            {
+                "timestamp": "2023-03-25T07:00:00",
+                "tela": "carrinho",
+                "acao": "add_to_cart",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 9271,
+        "sessao": "sess_519511",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-08-01T21:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": 131
+            },
+            {
+                "timestamp": "2023-09-08T17:00:00",
+                "tela": "home",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-03-18T13:00:00",
+                "tela": "perfil",
+                "acao": "click",
+                "produto_id": 196
+            }
+        ]
+    },
+    {
+        "id_cliente": 9026,
+        "sessao": "sess_126206",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-11-20T06:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-11-16T10:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 2824,
+        "sessao": "sess_463000",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-06-12T10:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": 291
+            },
+            {
+                "timestamp": "2023-04-21T23:00:00",
+                "tela": "produto",
+                "acao": "view",
+                "produto_id": 394
+            }
+        ]
+    },
+    {
+        "id_cliente": 3236,
+        "sessao": "sess_630951",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-04-15T20:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": 414
+            }
+        ]
+    },
+    {
+        "id_cliente": 6488,
+        "sessao": "sess_279136",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-06-29T03:00:00",
+                "tela": "home",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-07-27T08:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": 228
+            },
+            {
+                "timestamp": "2023-02-01T09:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 124
+            },
+            {
+                "timestamp": "2023-09-08T19:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 483
+            },
+            {
+                "timestamp": "2023-06-14T21:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": 174
+            }
+        ]
+    },
+    {
+        "id_cliente": 3253,
+        "sessao": "sess_751120",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-05-03T21:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-03-02T07:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 443
+            },
+            {
+                "timestamp": "2023-03-28T14:00:00",
+                "tela": "perfil",
+                "acao": "click",
+                "produto_id": 399
+            }
+        ]
+    },
+    {
+        "id_cliente": 9887,
+        "sessao": "sess_266372",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-05-16T23:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": 353
+            },
+            {
+                "timestamp": "2023-03-16T08:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": 382
+            },
+            {
+                "timestamp": "2023-07-25T12:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": 108
+            },
+            {
+                "timestamp": "2023-04-20T08:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 8134,
+        "sessao": "sess_832199",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-02-17T06:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-04-14T09:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 343
+            },
+            {
+                "timestamp": "2023-11-30T06:00:00",
+                "tela": "produto",
+                "acao": "view",
+                "produto_id": 458
+            }
+        ]
+    },
+    {
+        "id_cliente": 3553,
+        "sessao": "sess_137311",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-08-21T09:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": 227
+            }
+        ]
+    },
+    {
+        "id_cliente": 4611,
+        "sessao": "sess_366505",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-05-03T21:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-06-10T08:00:00",
+                "tela": "produto",
+                "acao": "view",
+                "produto_id": 256
+            },
+            {
+                "timestamp": "2023-04-15T22:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-03-08T11:00:00",
+                "tela": "home",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-05-30T06:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 8586,
+        "sessao": "sess_278925",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-12-06T20:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-01-24T06:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-11-24T21:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 1178,
+        "sessao": "sess_172671",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-09-15T12:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": 263
+            },
+            {
+                "timestamp": "2023-09-14T17:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": 373
+            },
+            {
+                "timestamp": "2023-08-30T12:00:00",
+                "tela": "carrinho",
+                "acao": "view",
+                "produto_id": 136
+            }
+        ]
+    },
+    {
+        "id_cliente": 4593,
+        "sessao": "sess_160210",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-10-21T08:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-07-14T14:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": 371
+            },
+            {
+                "timestamp": "2023-11-13T04:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-10-06T15:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": 335
+            }
+        ]
+    },
+    {
+        "id_cliente": 1148,
+        "sessao": "sess_149661",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-03-30T06:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": 224
+            },
+            {
+                "timestamp": "2023-10-08T06:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 124
+            },
+            {
+                "timestamp": "2023-04-25T00:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": 152
+            },
+            {
+                "timestamp": "2023-05-28T09:00:00",
+                "tela": "home",
+                "acao": "click",
+                "produto_id": 268
+            }
+        ]
+    },
+    {
+        "id_cliente": 1232,
+        "sessao": "sess_527791",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-09-05T11:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": 336
+            },
+            {
+                "timestamp": "2023-11-28T22:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-11-24T13:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": 220
+            }
+        ]
+    },
+    {
+        "id_cliente": 5692,
+        "sessao": "sess_471631",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-01-03T08:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": 254
+            }
+        ]
+    },
+    {
+        "id_cliente": 3736,
+        "sessao": "sess_327338",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-11-27T18:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 287
+            },
+            {
+                "timestamp": "2023-02-21T18:00:00",
+                "tela": "produto",
+                "acao": "scroll",
+                "produto_id": 160
+            }
+        ]
+    },
+    {
+        "id_cliente": 4437,
+        "sessao": "sess_559101",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-06-01T18:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-06-14T05:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": 240
+            },
+            {
+                "timestamp": "2023-01-21T07:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": 278
+            },
+            {
+                "timestamp": "2023-10-05T19:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-02-05T01:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 6681,
+        "sessao": "sess_346985",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-07-31T22:00:00",
+                "tela": "carrinho",
+                "acao": "add_to_cart",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-02-16T16:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": 212
+            },
+            {
+                "timestamp": "2023-04-26T05:00:00",
+                "tela": "home",
+                "acao": "click",
+                "produto_id": 137
+            },
+            {
+                "timestamp": "2023-06-15T18:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": 418
+            },
+            {
+                "timestamp": "2023-02-05T09:00:00",
+                "tela": "produto",
+                "acao": "scroll",
+                "produto_id": 100
+            }
+        ]
+    },
+    {
+        "id_cliente": 5019,
+        "sessao": "sess_840669",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-07-13T00:00:00",
+                "tela": "perfil",
+                "acao": "click",
+                "produto_id": 358
+            },
+            {
+                "timestamp": "2023-12-12T12:00:00",
+                "tela": "home",
+                "acao": "add_to_cart",
+                "produto_id": 477
+            }
+        ]
+    },
+    {
+        "id_cliente": 9119,
+        "sessao": "sess_146958",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-05-29T22:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-06-20T03:00:00",
+                "tela": "home",
+                "acao": "add_to_cart",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-09-09T22:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 465
+            },
+            {
+                "timestamp": "2023-03-21T13:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 234
+            },
+            {
+                "timestamp": "2023-10-24T21:00:00",
+                "tela": "produto",
+                "acao": "add_to_cart",
+                "produto_id": 371
+            }
+        ]
+    },
+    {
+        "id_cliente": 5757,
+        "sessao": "sess_115157",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-08-17T14:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-05-01T13:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 230
+            }
+        ]
+    },
+    {
+        "id_cliente": 4471,
+        "sessao": "sess_110080",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-04-28T23:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": 219
+            },
+            {
+                "timestamp": "2023-01-25T20:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 185
+            }
+        ]
+    },
+    {
+        "id_cliente": 7755,
+        "sessao": "sess_310398",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-07-12T23:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-03-06T20:00:00",
+                "tela": "carrinho",
+                "acao": "view",
+                "produto_id": 169
+            },
+            {
+                "timestamp": "2023-07-24T03:00:00",
+                "tela": "produto",
+                "acao": "add_to_cart",
+                "produto_id": 398
+            },
+            {
+                "timestamp": "2023-04-05T00:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": 209
+            }
+        ]
+    },
+    {
+        "id_cliente": 9220,
+        "sessao": "sess_949079",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-09-22T17:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": 324
+            }
+        ]
+    },
+    {
+        "id_cliente": 6115,
+        "sessao": "sess_344034",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-09-20T08:00:00",
+                "tela": "home",
+                "acao": "add_to_cart",
+                "produto_id": 404
+            },
+            {
+                "timestamp": "2023-06-20T18:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-12-01T13:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 284
+            }
+        ]
+    },
+    {
+        "id_cliente": 6843,
+        "sessao": "sess_237885",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-01-07T17:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-09-29T07:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": 455
+            },
+            {
+                "timestamp": "2023-06-08T13:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-01-11T04:00:00",
+                "tela": "home",
+                "acao": "add_to_cart",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-10-26T13:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": 315
+            }
+        ]
+    },
+    {
+        "id_cliente": 1889,
+        "sessao": "sess_327033",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-09-26T08:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 425
+            },
+            {
+                "timestamp": "2023-10-25T06:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 122
+            },
+            {
+                "timestamp": "2023-10-18T12:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-09-24T16:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-02-14T12:00:00",
+                "tela": "produto",
+                "acao": "add_to_cart",
+                "produto_id": 374
+            }
+        ]
+    },
+    {
+        "id_cliente": 7036,
+        "sessao": "sess_570817",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-03-23T06:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": 159
+            },
+            {
+                "timestamp": "2023-06-10T15:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 388
+            },
+            {
+                "timestamp": "2023-12-01T09:00:00",
+                "tela": "perfil",
+                "acao": "click",
+                "produto_id": 348
+            }
+        ]
+    },
+    {
+        "id_cliente": 1149,
+        "sessao": "sess_754065",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-12-25T19:00:00",
+                "tela": "home",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-07-02T23:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": 294
+            },
+            {
+                "timestamp": "2023-03-15T05:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 434
+            },
+            {
+                "timestamp": "2023-12-11T07:00:00",
+                "tela": "produto",
+                "acao": "add_to_cart",
+                "produto_id": 269
+            },
+            {
+                "timestamp": "2023-06-20T23:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 331
+            }
+        ]
+    },
+    {
+        "id_cliente": 8259,
+        "sessao": "sess_467854",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-04-04T00:00:00",
+                "tela": "perfil",
+                "acao": "click",
+                "produto_id": 400
+            },
+            {
+                "timestamp": "2023-08-06T08:00:00",
+                "tela": "produto",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-06-25T10:00:00",
+                "tela": "produto",
+                "acao": "scroll",
+                "produto_id": 295
+            }
+        ]
+    },
+    {
+        "id_cliente": 2035,
+        "sessao": "sess_577165",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-11-30T06:00:00",
+                "tela": "perfil",
+                "acao": "click",
+                "produto_id": 274
+            },
+            {
+                "timestamp": "2023-06-25T20:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 197
+            },
+            {
+                "timestamp": "2023-10-27T23:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": 365
+            },
+            {
+                "timestamp": "2023-07-10T08:00:00",
+                "tela": "produto",
+                "acao": "scroll",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-03-25T13:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 8408,
+        "sessao": "sess_286733",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-01-13T04:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 198
+            },
+            {
+                "timestamp": "2023-08-18T12:00:00",
+                "tela": "carrinho",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-09-30T15:00:00",
+                "tela": "perfil",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-05-10T22:00:00",
+                "tela": "carrinho",
+                "acao": "add_to_cart",
+                "produto_id": 297
+            },
+            {
+                "timestamp": "2023-02-09T17:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": 333
+            }
+        ]
+    },
+    {
+        "id_cliente": 4521,
+        "sessao": "sess_348205",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-02-21T00:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": 174
+            },
+            {
+                "timestamp": "2023-01-05T20:00:00",
+                "tela": "home",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-12-20T00:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-04-21T20:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": 149
+            }
+        ]
+    },
+    {
+        "id_cliente": 8415,
+        "sessao": "sess_515696",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-02-12T12:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 466
+            },
+            {
+                "timestamp": "2023-09-25T17:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": 254
+            },
+            {
+                "timestamp": "2023-07-31T10:00:00",
+                "tela": "home",
+                "acao": "add_to_cart",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-04-26T05:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 1776,
+        "sessao": "sess_993625",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-06-25T20:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 369
+            },
+            {
+                "timestamp": "2023-08-31T02:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 1185,
+        "sessao": "sess_711265",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-04-14T12:00:00",
+                "tela": "produto",
+                "acao": "view",
+                "produto_id": 133
+            },
+            {
+                "timestamp": "2023-04-02T08:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-07-07T15:00:00",
+                "tela": "carrinho",
+                "acao": "add_to_cart",
+                "produto_id": 229
+            },
+            {
+                "timestamp": "2023-07-03T15:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": 292
+            }
+        ]
+    },
+    {
+        "id_cliente": 4945,
+        "sessao": "sess_517449",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-06-21T15:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 7743,
+        "sessao": "sess_864654",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-04-25T17:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": 445
+            },
+            {
+                "timestamp": "2023-11-18T16:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 186
+            }
+        ]
+    },
+    {
+        "id_cliente": 5789,
+        "sessao": "sess_604468",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-09-14T09:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": 205
+            },
+            {
+                "timestamp": "2023-12-10T08:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": 389
+            },
+            {
+                "timestamp": "2023-02-17T07:00:00",
+                "tela": "produto",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-04-09T04:00:00",
+                "tela": "carrinho",
+                "acao": "add_to_cart",
+                "produto_id": 334
+            },
+            {
+                "timestamp": "2023-08-15T08:00:00",
+                "tela": "home",
+                "acao": "add_to_cart",
+                "produto_id": 109
+            }
+        ]
+    },
+    {
+        "id_cliente": 3420,
+        "sessao": "sess_416798",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-07-03T14:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": 398
+            },
+            {
+                "timestamp": "2023-06-20T20:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": 158
+            },
+            {
+                "timestamp": "2023-01-30T02:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": 184
+            }
+        ]
+    },
+    {
+        "id_cliente": 7844,
+        "sessao": "sess_214483",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-09-09T16:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": 175
+            },
+            {
+                "timestamp": "2023-01-13T01:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-01-24T06:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": 140
+            },
+            {
+                "timestamp": "2023-06-07T18:00:00",
+                "tela": "produto",
+                "acao": "scroll",
+                "produto_id": 290
+            },
+            {
+                "timestamp": "2023-09-18T01:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 2962,
+        "sessao": "sess_948474",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-10-01T04:00:00",
+                "tela": "home",
+                "acao": "click",
+                "produto_id": 380
+            },
+            {
+                "timestamp": "2023-08-12T13:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 126
+            },
+            {
+                "timestamp": "2023-12-24T02:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": 340
+            },
+            {
+                "timestamp": "2023-11-11T17:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": 315
+            },
+            {
+                "timestamp": "2023-09-12T16:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 3922,
+        "sessao": "sess_309290",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-10-30T02:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": 234
+            },
+            {
+                "timestamp": "2023-11-22T09:00:00",
+                "tela": "home",
+                "acao": "add_to_cart",
+                "produto_id": 413
+            },
+            {
+                "timestamp": "2023-05-20T00:00:00",
+                "tela": "produto",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-04-10T10:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 466
+            }
+        ]
+    },
+    {
+        "id_cliente": 7702,
+        "sessao": "sess_897729",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-03-17T09:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": 217
+            },
+            {
+                "timestamp": "2023-08-01T21:00:00",
+                "tela": "produto",
+                "acao": "scroll",
+                "produto_id": 142
+            },
+            {
+                "timestamp": "2023-03-31T12:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": 248
+            },
+            {
+                "timestamp": "2023-03-29T09:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": 288
+            },
+            {
+                "timestamp": "2023-03-25T23:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": 214
+            }
+        ]
+    },
+    {
+        "id_cliente": 7532,
+        "sessao": "sess_594154",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-04-16T23:00:00",
+                "tela": "produto",
+                "acao": "add_to_cart",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-09-06T10:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": 161
+            },
+            {
+                "timestamp": "2023-07-15T12:00:00",
+                "tela": "produto",
+                "acao": "scroll",
+                "produto_id": 368
+            }
+        ]
+    },
+    {
+        "id_cliente": 7345,
+        "sessao": "sess_881301",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-02-05T21:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 4015,
+        "sessao": "sess_474842",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-11-12T10:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": 140
+            }
+        ]
+    },
+    {
+        "id_cliente": 9953,
+        "sessao": "sess_956338",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-01-03T03:00:00",
+                "tela": "home",
+                "acao": "add_to_cart",
+                "produto_id": 389
+            },
+            {
+                "timestamp": "2023-10-24T03:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 4010,
+        "sessao": "sess_104877",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-05-24T19:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": 189
+            },
+            {
+                "timestamp": "2023-01-03T09:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 328
+            },
+            {
+                "timestamp": "2023-02-15T10:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 6331,
+        "sessao": "sess_414717",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-05-17T14:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": 477
+            },
+            {
+                "timestamp": "2023-04-10T21:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 497
+            },
+            {
+                "timestamp": "2023-11-12T05:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": 100
+            }
+        ]
+    },
+    {
+        "id_cliente": 7659,
+        "sessao": "sess_392266",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-10-21T13:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": 336
+            },
+            {
+                "timestamp": "2023-10-27T16:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-08-24T13:00:00",
+                "tela": "produto",
+                "acao": "scroll",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-11-19T01:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 404
+            },
+            {
+                "timestamp": "2023-06-05T07:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": 171
+            }
+        ]
+    },
+    {
+        "id_cliente": 6628,
+        "sessao": "sess_599084",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-06-29T09:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": 126
+            },
+            {
+                "timestamp": "2023-07-20T14:00:00",
+                "tela": "checkout",
+                "acao": "add_to_cart",
+                "produto_id": 125
+            },
+            {
+                "timestamp": "2023-06-25T19:00:00",
+                "tela": "carrinho",
+                "acao": "view",
+                "produto_id": 200
+            },
+            {
+                "timestamp": "2023-11-14T10:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": 177
+            },
+            {
+                "timestamp": "2023-09-26T02:00:00",
+                "tela": "home",
+                "acao": "click",
+                "produto_id": 119
+            }
+        ]
+    },
+    {
+        "id_cliente": 1822,
+        "sessao": "sess_428209",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-10-15T12:00:00",
+                "tela": "carrinho",
+                "acao": "add_to_cart",
+                "produto_id": 291
+            },
+            {
+                "timestamp": "2023-03-05T12:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 150
+            },
+            {
+                "timestamp": "2023-10-12T23:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": 291
+            },
+            {
+                "timestamp": "2023-02-20T19:00:00",
+                "tela": "produto",
+                "acao": "add_to_cart",
+                "produto_id": 497
+            },
+            {
+                "timestamp": "2023-02-26T09:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 261
+            }
+        ]
+    },
+    {
+        "id_cliente": 3736,
+        "sessao": "sess_779448",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-10-19T07:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": 382
+            },
+            {
+                "timestamp": "2023-01-03T01:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 132
+            },
+            {
+                "timestamp": "2023-07-10T15:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": 189
+            },
+            {
+                "timestamp": "2023-05-06T03:00:00",
+                "tela": "produto",
+                "acao": "add_to_cart",
+                "produto_id": 234
+            }
+        ]
+    },
+    {
+        "id_cliente": 9996,
+        "sessao": "sess_348221",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-12-27T00:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": 443
+            }
+        ]
+    },
+    {
+        "id_cliente": 9186,
+        "sessao": "sess_818928",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-10-22T11:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": 259
+            },
+            {
+                "timestamp": "2023-08-01T07:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": 136
+            }
+        ]
+    },
+    {
+        "id_cliente": 9950,
+        "sessao": "sess_519294",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-03-21T17:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-11-12T19:00:00",
+                "tela": "produto",
+                "acao": "view",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 3287,
+        "sessao": "sess_261063",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-03-13T05:00:00",
+                "tela": "produto",
+                "acao": "view",
+                "produto_id": 454
+            }
+        ]
+    },
+    {
+        "id_cliente": 6044,
+        "sessao": "sess_184452",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-07-09T07:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 299
+            },
+            {
+                "timestamp": "2023-12-17T10:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": 292
+            },
+            {
+                "timestamp": "2023-07-02T06:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": 271
+            },
+            {
+                "timestamp": "2023-12-30T22:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": 499
+            }
+        ]
+    },
+    {
+        "id_cliente": 6942,
+        "sessao": "sess_722543",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-12-28T01:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": 271
+            },
+            {
+                "timestamp": "2023-10-31T18:00:00",
+                "tela": "produto",
+                "acao": "view",
+                "produto_id": 429
+            },
+            {
+                "timestamp": "2023-10-12T10:00:00",
+                "tela": "produto",
+                "acao": "add_to_cart",
+                "produto_id": 472
+            },
+            {
+                "timestamp": "2023-02-15T02:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 145
+            },
+            {
+                "timestamp": "2023-12-29T19:00:00",
+                "tela": "produto",
+                "acao": "scroll",
+                "produto_id": 500
+            }
+        ]
+    },
+    {
+        "id_cliente": 6729,
+        "sessao": "sess_151481",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-08-25T23:00:00",
+                "tela": "produto",
+                "acao": "scroll",
+                "produto_id": 272
+            },
+            {
+                "timestamp": "2023-07-29T13:00:00",
+                "tela": "home",
+                "acao": "add_to_cart",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-12-31T01:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": 102
+            },
+            {
+                "timestamp": "2023-11-26T14:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": 255
+            },
+            {
+                "timestamp": "2023-06-13T20:00:00",
+                "tela": "perfil",
+                "acao": "click",
+                "produto_id": 127
+            }
+        ]
+    },
+    {
+        "id_cliente": 2161,
+        "sessao": "sess_271370",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-02-28T11:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 4498,
+        "sessao": "sess_374994",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-02-15T10:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": 165
+            },
+            {
+                "timestamp": "2023-09-29T01:00:00",
+                "tela": "carrinho",
+                "acao": "view",
+                "produto_id": 344
+            }
+        ]
+    },
+    {
+        "id_cliente": 6201,
+        "sessao": "sess_883045",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-04-01T10:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-11-19T23:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 6137,
+        "sessao": "sess_600924",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-07-22T16:00:00",
+                "tela": "produto",
+                "acao": "add_to_cart",
+                "produto_id": 304
+            },
+            {
+                "timestamp": "2023-02-11T01:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": 112
+            },
+            {
+                "timestamp": "2023-06-21T17:00:00",
+                "tela": "perfil",
+                "acao": "click",
+                "produto_id": 428
+            },
+            {
+                "timestamp": "2023-09-01T01:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-03-14T02:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": 426
+            }
+        ]
+    },
+    {
+        "id_cliente": 7034,
+        "sessao": "sess_771175",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-05-15T13:00:00",
+                "tela": "produto",
+                "acao": "view",
+                "produto_id": 382
+            }
+        ]
+    },
+    {
+        "id_cliente": 8716,
+        "sessao": "sess_599116",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-01-18T21:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-05-16T07:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": 163
+            }
+        ]
+    },
+    {
+        "id_cliente": 4152,
+        "sessao": "sess_548243",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-02-11T11:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": 461
+            },
+            {
+                "timestamp": "2023-05-31T12:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 152
+            },
+            {
+                "timestamp": "2023-12-01T04:00:00",
+                "tela": "home",
+                "acao": "add_to_cart",
+                "produto_id": 356
+            },
+            {
+                "timestamp": "2023-07-21T09:00:00",
+                "tela": "carrinho",
+                "acao": "view",
+                "produto_id": 431
+            },
+            {
+                "timestamp": "2023-02-03T23:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 5042,
+        "sessao": "sess_574887",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-05-10T01:00:00",
+                "tela": "carrinho",
+                "acao": "add_to_cart",
+                "produto_id": 471
+            },
+            {
+                "timestamp": "2023-10-24T09:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 444
+            },
+            {
+                "timestamp": "2023-03-26T05:00:00",
+                "tela": "perfil",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-06-30T02:00:00",
+                "tela": "perfil",
+                "acao": "click",
+                "produto_id": 369
+            },
+            {
+                "timestamp": "2023-09-26T11:00:00",
+                "tela": "home",
+                "acao": "click",
+                "produto_id": 286
+            }
+        ]
+    },
+    {
+        "id_cliente": 9773,
+        "sessao": "sess_832669",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-05-22T16:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": 122
+            },
+            {
+                "timestamp": "2023-03-14T03:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 323
+            },
+            {
+                "timestamp": "2023-06-21T17:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": 210
+            },
+            {
+                "timestamp": "2023-05-16T00:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 102
+            }
+        ]
+    },
+    {
+        "id_cliente": 7103,
+        "sessao": "sess_569754",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-01-01T12:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-10-07T07:00:00",
+                "tela": "home",
+                "acao": "add_to_cart",
+                "produto_id": 166
+            },
+            {
+                "timestamp": "2023-06-23T01:00:00",
+                "tela": "checkout",
+                "acao": "click",
+                "produto_id": 197
+            }
+        ]
+    },
+    {
+        "id_cliente": 1334,
+        "sessao": "sess_388703",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-07-23T08:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 7345,
+        "sessao": "sess_248155",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-01-08T04:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": 322
+            }
+        ]
+    },
+    {
+        "id_cliente": 4595,
+        "sessao": "sess_920661",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-04-06T14:00:00",
+                "tela": "home",
+                "acao": "view",
+                "produto_id": 405
+            },
+            {
+                "timestamp": "2023-04-25T08:00:00",
+                "tela": "carrinho",
+                "acao": "view",
+                "produto_id": 137
+            },
+            {
+                "timestamp": "2023-11-30T01:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": 154
+            },
+            {
+                "timestamp": "2023-11-17T01:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": 308
+            }
+        ]
+    },
+    {
+        "id_cliente": 3079,
+        "sessao": "sess_287918",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-11-15T04:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": 330
+            },
+            {
+                "timestamp": "2023-01-17T03:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": 223
+            },
+            {
+                "timestamp": "2023-08-26T20:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 363
+            },
+            {
+                "timestamp": "2023-01-09T00:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 182
+            }
+        ]
+    },
+    {
+        "id_cliente": 9411,
+        "sessao": "sess_462005",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-12-22T04:00:00",
+                "tela": "produto",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-04-15T02:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": 393
+            }
+        ]
+    },
+    {
+        "id_cliente": 5805,
+        "sessao": "sess_213132",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-05-11T14:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-03-24T03:00:00",
+                "tela": "home",
+                "acao": "add_to_cart",
+                "produto_id": 494
+            },
+            {
+                "timestamp": "2023-06-18T01:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-04-15T07:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": 427
+            },
+            {
+                "timestamp": "2023-01-03T01:00:00",
+                "tela": "produto",
+                "acao": "scroll",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 5475,
+        "sessao": "sess_711385",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-08-17T01:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": 178
+            },
+            {
+                "timestamp": "2023-07-19T15:00:00",
+                "tela": "carrinho",
+                "acao": "view",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 4346,
+        "sessao": "sess_877474",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-05-29T21:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 2115,
+        "sessao": "sess_478261",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-08-01T23:00:00",
+                "tela": "perfil",
+                "acao": "add_to_cart",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-10-30T08:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": 463
+            },
+            {
+                "timestamp": "2023-10-23T22:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": 322
+            },
+            {
+                "timestamp": "2023-02-12T02:00:00",
+                "tela": "carrinho",
+                "acao": "view",
+                "produto_id": 352
+            },
+            {
+                "timestamp": "2023-12-20T20:00:00",
+                "tela": "home",
+                "acao": "add_to_cart",
+                "produto_id": 222
+            }
+        ]
+    },
+    {
+        "id_cliente": 8702,
+        "sessao": "sess_338692",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-05-21T11:00:00",
+                "tela": "home",
+                "acao": "click",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 8977,
+        "sessao": "sess_988450",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 13"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-03-01T13:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": 122
+            }
+        ]
+    },
+    {
+        "id_cliente": 3619,
+        "sessao": "sess_907338",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-03-24T22:00:00",
+                "tela": "home",
+                "acao": "add_to_cart",
+                "produto_id": 119
+            },
+            {
+                "timestamp": "2023-08-06T00:00:00",
+                "tela": "produto",
+                "acao": "view",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 4941,
+        "sessao": "sess_807291",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-10-16T11:00:00",
+                "tela": "carrinho",
+                "acao": "add_to_cart",
+                "produto_id": 467
+            }
+        ]
+    },
+    {
+        "id_cliente": 8421,
+        "sessao": "sess_395593",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Galaxy S22"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-08-08T13:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": 323
+            },
+            {
+                "timestamp": "2023-07-09T22:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 133
+            },
+            {
+                "timestamp": "2023-04-24T10:00:00",
+                "tela": "produto",
+                "acao": "add_to_cart",
+                "produto_id": 455
+            }
+        ]
+    },
+    {
+        "id_cliente": 5328,
+        "sessao": "sess_269439",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "Moto G"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-09-24T09:00:00",
+                "tela": "perfil",
+                "acao": "click",
+                "produto_id": 411
+            },
+            {
+                "timestamp": "2023-03-24T15:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-04-10T07:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 384
+            },
+            {
+                "timestamp": "2023-04-22T12:00:00",
+                "tela": "produto",
+                "acao": "scroll",
+                "produto_id": 360
+            },
+            {
+                "timestamp": "2023-07-07T01:00:00",
+                "tela": "carrinho",
+                "acao": "view",
+                "produto_id": 349
+            }
+        ]
+    },
+    {
+        "id_cliente": 2644,
+        "sessao": "sess_367454",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-11-12T08:00:00",
+                "tela": "carrinho",
+                "acao": "view",
+                "produto_id": 461
+            },
+            {
+                "timestamp": "2023-04-11T00:00:00",
+                "tela": "carrinho",
+                "acao": "view",
+                "produto_id": 220
+            },
+            {
+                "timestamp": "2023-12-18T07:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-06-10T17:00:00",
+                "tela": "home",
+                "acao": "scroll",
+                "produto_id": 362
+            }
+        ]
+    },
+    {
+        "id_cliente": 6736,
+        "sessao": "sess_365804",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "Pixel 6"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-11-04T06:00:00",
+                "tela": "produto",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-06-23T02:00:00",
+                "tela": "home",
+                "acao": "click",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-08-27T20:00:00",
+                "tela": "carrinho",
+                "acao": "scroll",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-08-25T20:00:00",
+                "tela": "perfil",
+                "acao": "view",
+                "produto_id": 307
+            }
+        ]
+    },
+    {
+        "id_cliente": 6039,
+        "sessao": "sess_180968",
+        "dispositivo": {
+            "so": "iOS",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-07-14T19:00:00",
+                "tela": "produto",
+                "acao": "scroll",
+                "produto_id": 320
+            },
+            {
+                "timestamp": "2023-09-24T00:00:00",
+                "tela": "checkout",
+                "acao": "view",
+                "produto_id": 163
+            },
+            {
+                "timestamp": "2023-03-27T02:00:00",
+                "tela": "perfil",
+                "acao": "scroll",
+                "produto_id": 488
+            },
+            {
+                "timestamp": "2023-10-21T01:00:00",
+                "tela": "home",
+                "acao": "click",
+                "produto_id": null
+            }
+        ]
+    },
+    {
+        "id_cliente": 4621,
+        "sessao": "sess_605888",
+        "dispositivo": {
+            "so": "Android",
+            "modelo": "iPhone 11"
+        },
+        "eventos_clique": [
+            {
+                "timestamp": "2023-02-02T07:00:00",
+                "tela": "produto",
+                "acao": "view",
+                "produto_id": null
+            },
+            {
+                "timestamp": "2023-05-16T23:00:00",
+                "tela": "carrinho",
+                "acao": "click",
+                "produto_id": 414
+            },
+            {
+                "timestamp": "2023-10-01T12:00:00",
+                "tela": "checkout",
+                "acao": "scroll",
+                "produto_id": 162
+            },
+            {
+                "timestamp": "2023-08-03T23:00:00",
+                "tela": "carrinho",
+                "acao": "view",
+                "produto_id": 272
+            },
+            {
+                "timestamp": "2023-10-04T20:00:00",
+                "tela": "produto",
+                "acao": "scroll",
+                "produto_id": 444
+            }
+        ]
+    }
+]
