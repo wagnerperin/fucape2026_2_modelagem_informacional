@@ -1,0 +1,60 @@
+erDiagram
+    PACIENTE ||--o{ CONSULTA : agenda
+    ESPECIALIDADE ||--o{ MEDICO : possui
+    MEDICO ||--o{ CONSULTA : atende
+    CONSULTA ||--o{ PRESCRICAO : gera
+    CONSULTA ||--o{ CONSULTA_EXAME : solicita
+    EXAME ||--o{ CONSULTA_EXAME : solicitado
+    PACIENTE {
+        int idPaciente PK "NN"
+        string CPF UK "NN"
+        string nome "NN"
+        date dt_nascimento "NN"
+        string endereco_rua "NN"
+        int endereco_numero "NN"
+        string endereco_bairro "NN"
+        string endereco_municipio "NN"
+        string endereco_estado "NN"
+        string endereco_cep "NN"
+        string celular "NN"
+        string convenio
+    }
+    CONSULTA {
+        int idConsulta PK "NN"
+        string status "NN"
+        datetime horario "NN"
+        int idPaciente FK "NN"
+        int idMedico FK "NN"
+    }
+    ESPECIALIDADE {
+        int idEspecialidade PK "NN"
+        string nome "NN"
+        string descricao "NN"
+    }
+    MEDICO {
+        int idMedico PK "NN"
+        int CRM "NN"
+        string nome "NN"
+        string celular "NN"
+        string email "NN"
+        int idEspecialidade FK "NN"
+    }
+    PRESCRICAO {
+        int idPrescricao PK "NN"
+        string medicacao "NN"
+        string posologia "NN"
+        date data_validade "NN"
+    }
+    EXAME {
+        int idExame PK "NN"
+        string nome "NN"
+        string posologia "NN"
+        string tipo "NN"
+        string recomendacoes "NN"
+    }
+    CONSULTA_EXAME {
+        int idConsulta PK "NN"
+        int idExame PK "NN"
+        datetime dt_coleta "NN"
+        string resultados
+    }
