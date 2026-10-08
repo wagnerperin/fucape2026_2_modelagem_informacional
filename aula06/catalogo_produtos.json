@@ -1,0 +1,44 @@
+[
+  {
+    "sku": "TV-4K-65",
+    "nome": "Smart TV 65 polegadas",
+    "categoria": "Eletrônicos",
+    "preco": 3500.00,
+    "fabricante_referencia": "fab-001",
+    "especificacoes_tecnicas": {
+      "voltagem": "Bivolt",
+      "hdmi": 4,
+      "resolucao": "3840 x 2160",
+      "taxa_atualizacao": "120Hz"
+    },
+    "tags": ["smart", "4k", "tv", "sala"]
+  },
+  {
+    "sku": "CAM-ESP-M",
+    "nome": "Camiseta Esportiva Alta Performance",
+    "categoria": "Vestuário",
+    "preco": 89.90,
+    "fabricante_referencia": "fab-002",
+    "especificacoes_tecnicas": {
+      "tamanho": "M",
+      "cor": "Azul",
+      "composicao_textil": "100% Poliéster",
+      "protecao_uv": true
+    },
+    "tags": ["esporte", "corrida", "verao"]
+  },
+  {
+    "sku": "PNEU-205-55",
+    "nome": "Pneu Automotivo Aro 16",
+    "categoria": "Autopeças",
+    "preco": 450.00,
+    "fabricante_referencia": "fab-003",
+    "especificacoes_tecnicas": {
+      "aro": 16,
+      "indice_carga": "91",
+      "perfil": 55,
+      "durabilidade": "60000 km"
+    },
+    "tags": ["carro", "pneu", "manutencao"]
+  }
+]

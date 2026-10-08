@@ -1,0 +1,85 @@
+version: '3.8'
+
+# ==============================================================================
+# FUCAPE Business School - Disciplina: Modelagem Informacional
+# Aula 06: Modelagem para Sistemas NoSQL e Persistência Poliglota
+# Prof. Dr. Wagner Perin
+# ==============================================================================
+# Ambiente de Persistência Poliglota da OmniMarketplace (Containers Oficiais)
+# Subir todos os serviços com: docker compose up -d
+# Derrubar todos os serviços com: docker compose down
+# ==============================================================================
+
+services:
+  # ----------------------------------------------------------------------------
+  # 1. MONGODB: Banco Orientado a Documentos (Catálogo Heterogêneo de Produtos)
+  # ----------------------------------------------------------------------------
+  # Resolve a DOR 1 (Antipadrão EAV). Permite armazenar produtos com esquemas
+  # completamente flexíveis em documentos JSON/BSON aninhados (Schema-on-Read).
+  mongodb:
+    image: mongo:latest
+    container_name: omni_mongodb
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: fucape_password123
+      MONGO_INITDB_DATABASE: omnimarketplace
+    volumes:
+      - mongo_data:/data/db
+    networks:
+      - omni_network
+
+  # ----------------------------------------------------------------------------
+  # 2. NEO4J: Banco Orientado a Grafos (Motor de Recomendação Social e Fraude)
+  # ----------------------------------------------------------------------------
+  # Resolve a DOR 2 (JOINs Recursivos). Permite navegar em redes de relacionamentos
+  # com Index-Free Adjacency em complexidade O(1) por salto.
+  # Acesso Web (Browser Cypher): http://localhost:7474
+  # Usuário: neo4j | Senha: fucape_password123
+  neo4j:
+    image: neo4j:latest
+    container_name: omni_neo4j
+    restart: unless-stopped
+    ports:
+      - "7474:7474" # Interface Web (Neo4j Browser HTTP)
+      - "7687:7687" # Protocolo Bolt (Conexões de Aplicação / Drivers)
+    environment:
+      NEO4J_AUTH: neo4j/fucape_password123
+      NEO4J_PLUGINS: '["apoc"]'
+    volumes:
+      - neo4j_data:/data
+    networks:
+      - omni_network
+
+  # ----------------------------------------------------------------------------
+  # 3. REDIS: Armazenamento em Memória Chave-Valor (Carrinho Efêmero & Sessões)
+  # ----------------------------------------------------------------------------
+  # Resolve a DOR 3 (Gargalo de I/O em Disco). Opera inteiramente em memória RAM,
+  # com latência submilissegundo e expiração automática por TTL sem lock de disco.
+  # Teste via CLI: docker exec -it omni_redis redis-cli
+  redis:
+    image: redis:latest
+    container_name: omni_redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    command: redis-server --appendonly yes --requirepass fucape_password123
+    volumes:
+      - redis_data:/data
+    networks:
+      - omni_network
+
+volumes:
+  mongo_data:
+    name: omni_mongo_volume
+  neo4j_data:
+    name: omni_neo4j_volume
+  redis_data:
+    name: omni_redis_volume
+
+networks:
+  omni_network:
+    name: omni_polyglot_network
+    driver: bridge
