@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+logs/
+*.log
+
+# Bancos gerados e dados locais temporários
+*.db-journal
+target/
+dbt_packages/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db

@@ -1,0 +1,62 @@
+# =============================================================================
+# FUCAPE Business School - Ciência de Dados para Negócios
+# Disciplina: Modelagem Informacional
+# Aula 07: O Paradigma ETL vs. ELT e Ferramentas Modernas
+# -----------------------------------------------------------------------------
+# ARQUIVO: models/schema.yml
+# ESPECIFICAÇÃO DE TESTES DECLARATIVOS DE QUALIDADE DE DADOS (DATA CONTRACTS)
+# =============================================================================
+version: 2
+
+models:
+  - name: stg_finpay_transacoes
+    description: "Camada Staging: padronização, cast monetário e desaninhamento da camada Raw."
+    columns:
+      - name: id_transacao
+        description: "Chave primária natural da transação."
+        tests:
+          - unique
+          - not_null
+
+      - name: des_status_transacao
+        description: "Status do ciclo de vida da autorização bancária."
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['APROVADO', 'RECUSADO', 'ESTORNADO']
+
+  - name: dim_lojistas
+    description: "Tabela Dimensão Conforme contendo os lojistas parceiros credenciados na FinPay."
+    columns:
+      - name: id_lojista
+        description: "Identificador único do lojista credenciado."
+        tests:
+          - unique
+          - not_null
+
+      - name: nm_fantasia
+        description: "Razão social ou nome fantasia do estabelecimento."
+        tests:
+          - not_null
+
+  - name: fct_liquidacoes_diarias
+    description: "Tabela Fato contendo as liquidações financeiras aprovadas com aplicação da taxa MDR."
+    columns:
+      - name: id_transacao
+        description: "Chave primária da liquidação gerada."
+        tests:
+          - unique
+          - not_null
+
+      - name: vlr_liquido_lojista
+        description: "Valor líquido final a ser creditado na conta do lojista parceiro."
+        tests:
+          - not_null
+
+      - name: id_lojista
+        description: "Chave estrangeira apontando para a dimensão de lojistas credenciados."
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_lojistas')
+              field: id_lojista
